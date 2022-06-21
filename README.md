@@ -1,6 +1,12 @@
-### Hi there 👋
+## Aprendendo sobre o Mundo!
 
-<!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" width="60" height="60" />
+        
+          
+
+<!--### Hi there 👋
+
+
 **zudefoque/zudefoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
